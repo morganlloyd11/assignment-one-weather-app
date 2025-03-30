@@ -18,7 +18,7 @@ function App() {
 
       <h1 className='title'> Weather App </h1>
 
-      {/* <WeatherDisplay location="Calgary" temperature="-30" weather="Snowy"/> */}
+       {/* <WeatherDisplay location="Calgary" temperature="-30" weather="Snowy"/> */}
 
       {/* SEARCH BAR */}
       {/* value is set to search state and updates it when user enters something */}
